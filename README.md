@@ -1,7 +1,7 @@
 # Learning to Play Sequential Games versus Unknown Opponents
 
 
-This repository contains the code associated to the paper:
+This repository contains the code associated with the paper:
 > [**Learning to Play Sequential Games versus Unknown Opponents**](https://arxiv.org/pdf/2007.05271.pdf)
 > *Pier Giuseppe Sessa, Ilija Bogunovic, Maryam Kamgarpour, Andreas Krause*.
 > Neural Information Processing Systems (NeurIPS), 2020.
